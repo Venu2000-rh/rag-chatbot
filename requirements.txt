@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+faiss-cpu
+accelerate
+torch
+langchain-text-splitters
+pypdf
+numpy
